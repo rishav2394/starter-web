@@ -1,1 +1,2 @@
-working in hipster file
+working in hipster file.
+now ready to work on git.
