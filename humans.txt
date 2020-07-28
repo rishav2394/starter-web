@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    raj 	jai sri ram 	jan@gmail.com
 
 # THANKS
 
