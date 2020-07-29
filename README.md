@@ -5,7 +5,8 @@ adding line for rebash example,adding from myfeature.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+this is how its done.
 
 ## HOW to Contribute
 
